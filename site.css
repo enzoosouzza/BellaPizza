@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+}
+
+.cima{
+    background-color: #C62828;
+    text-align: center;
+    color: white;
+    padding: 40px 0;
+}
+
+.introducao {
+    text-align: justify;
+    border: 2px solid white;
+    background-color: #FFFFFF;
+    padding: 15px;
+    width: 70%;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.cardapio {
+    border: 2px solid white;
+    background-color: #FFFFFF;
+    width: 70%;
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 15px;
+}
+
+.contato {
+    border: 3px solid white;
+    background-color: white;
+    width: 70%;
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 15px;
+}
+
+.fim {
+    text-align: center;
+    background-color: #333333;
+    color: white;
+    padding: 15px;
+}
+
+.cadastro {
+    border: 3px solid white;
+    background-color: white;
+    width: 70%;
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 15px;
+}
